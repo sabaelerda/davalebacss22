@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#navig {
+    margin:  0 auto;
+    max-width: 980px;
+    width: 100%;
+}
+
+#links {
+    max-width: 349px;
+    width: 100%;
+    display: inline-block;
+}
+
+#but {
+    float: right;
+    margin-top: 13px;
+}
+
+#lang {
+    float: left;
+    margin-top: 13px;
+    vertical-align: middle;
+}
+
+#logo {
+    max-width: 173px;
+    width: 100%;
+    margin-left: 819px;
+}
+
+#button, #secondButton {
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    background-color: #00AC25;
+    border-radius: 8px;
+    color: white;
+}
+
+#button {
+    float: right;
+    height: 35px;
+    margin-top: 13px;
+    max-width: 105px;
+    width: 100%;
+}
+
+#secondButton {
+    max-width: 233px;
+    width: 100%;
+    margin-top: 24px;
+    height: 54px;
+}
+
+#offer, #contact, #help {
+    padding-left: 18px;
+    font-family: 'Inter', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+#about {
+    display: inline-block;
+    font-weight: 600;
+    color: #FF5DA3;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+#box {
+    margin: 0 auto;
+    max-width: 1316px;
+    width: 100%;
+    margin-top: 178px;
+    text-align: center;
+}
+
+#title {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+}
+
+#coloring {
+    color: #FF5DA3;
+}
+
+
+#opportunity {
+    font-size: 24px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+#enjoy {
+    font-family: 'Instrument Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#educate {
+    margin: 0 auto;
+    font-family: 'Hind Vadodara', sans-serif;
+    font-size: 24px;
+    max-width: 761px;
+    width: 100%;
+    color: #6941C6;
+}
+
+
+#secondLogo {
+    max-width: 160px;
+    width: 100%;
+    vertical-align: middle;
+    float: left;
+}
+
+#foot {
+    max-width: 1920px;
+    width: 100%;
+    display: table;
+    width: 100%;
+    background-color: #53389E;
+    margin-top: 535px;
+}
+
+#containerFoot {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0 auto;
+    max-width: 1216px;
+    width: 100%;
+    text-align: center;
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+
+
+#linksSecond {
+    display: inline-block;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+#overview {
+    text-decoration: none;
+    vertical-align: middle;
+    color: #E9D7FE;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+ #feature, #pricing, #career, #helpSecond, #privacy{
+    padding-left: 32px;
+    text-decoration: none;
+    color: #E9D7FE;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#footerText {
+    vertical-align: middle;
+    font-size: 16px;
+    float: right;
+    color: #E9D7FE;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 1280px;
+}
